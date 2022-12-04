@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Yockay_Atropos.RaidAnnounceHour>約{0}時間後に襲撃が来ます.</Yockay_Atropos.RaidAnnounceHour>
+  <Yockay_Atropos.RaidAnnounceDays>約{0}日後に襲撃が来ます.</Yockay_Atropos.RaidAnnounceDays>
+  <Yockay_Atropos.MinDaysPassedExplain1>minDaysPassed: 入植開始から最初の襲撃までの日数.</Yockay_Atropos.MinDaysPassedExplain1>
+  <Yockay_Atropos.MinDaysPassedExplain2>単位: 日, 最小値: 0.1, 最大値: 10000</Yockay_Atropos.MinDaysPassedExplain2>
+  <Yockay_Atropos.MinDaysPassed>minDaysPassed</Yockay_Atropos.MinDaysPassed>
+  <Yockay_Atropos.CycleDaysExplain1>cycleDays: 襲撃の発生する間隔.</Yockay_Atropos.CycleDaysExplain1>
+  <Yockay_Atropos.CycleDaysExplain2>単位: 日, 最小値: 0.1, 最大値: 10000</Yockay_Atropos.CycleDaysExplain2>
+  <Yockay_Atropos.CycleDays>cycleDays</Yockay_Atropos.CycleDays>
+  <Yockay_Atropos.AnnounceBeforeDaysExplain1>announceBeforeDays: 何日前に襲撃を通知するか. 0にすると通知しません.</Yockay_Atropos.AnnounceBeforeDaysExplain1>
+  <Yockay_Atropos.AnnounceBeforeDaysExplain2>単位: 日, 最小値: 0, 最大値: cycleDaysの半分</Yockay_Atropos.AnnounceBeforeDaysExplain2>
+  <Yockay_Atropos.AnnounceBeforeDays>announceBeforeDays</Yockay_Atropos.AnnounceBeforeDays>
+  <Yockay_Atropos.debugMode>debugMode</Yockay_Atropos.debugMode>
+</LanguageData>

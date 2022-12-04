@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Storyteller Atropos</name>
+  <packageId>yockay.StorytellerAtropos</packageId>
+  <author>yockay</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <description>定期的に襲撃を発生させるストーリーテラー「アトロポス」を追加します</description>
+</ModMetaData>

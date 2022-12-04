@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Yockay_Atropos.RaidAnnounceHour>A raid comes in about {0} hours.</Yockay_Atropos.RaidAnnounceHour>
+  <Yockay_Atropos.RaidAnnounceDays>A raid comes in about {0} days.</Yockay_Atropos.RaidAnnounceDays>
+  <Yockay_Atropos.MinDaysPassedExplain1>minDaysPassed: Number of days from the start of settlement to the first raid.</Yockay_Atropos.MinDaysPassedExplain1>
+  <Yockay_Atropos.MinDaysPassedExplain2>Unit: day, min: 0.1, max: 10000</Yockay_Atropos.MinDaysPassedExplain2>
+  <Yockay_Atropos.MinDaysPassed>minDaysPassed</Yockay_Atropos.MinDaysPassed>
+  <Yockay_Atropos.CycleDaysExplain1>cycleDays: Interval at which raids occur.</Yockay_Atropos.CycleDaysExplain1>
+  <Yockay_Atropos.CycleDaysExplain2>Unit: day, min: 0.1, max: 10000</Yockay_Atropos.CycleDaysExplain2>
+  <Yockay_Atropos.CycleDays>cycleDays</Yockay_Atropos.CycleDays>
+  <Yockay_Atropos.AnnounceBeforeDaysExplain1>announceBeforeDays: How many days' notice of the raid. 0 is no announce.</Yockay_Atropos.AnnounceBeforeDaysExplain1>
+  <Yockay_Atropos.AnnounceBeforeDaysExplain2>Unit: day, min: 0, max: half of cycleDays</Yockay_Atropos.AnnounceBeforeDaysExplain2>
+  <Yockay_Atropos.AnnounceBeforeDays>announceBeforeDays</Yockay_Atropos.AnnounceBeforeDays>
+  <Yockay_Atropos.debugMode>debugMode</Yockay_Atropos.debugMode>
+</LanguageData>
